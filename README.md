@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2 align="center">Hello, I'm Leandro Carra :man_technologist:</h1>
 
-<!--
-**leandrocarra/leandrocarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A technology lover</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leandrocarra&color=green" alt="leandrocarra" />
+  <a href="https://www.linkedin.com/in/leandro-carra/">
+    <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocarra&layout=compact&langs_count=16&count_private=true&theme=dracula" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leandrocarra&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" />
+</div>
